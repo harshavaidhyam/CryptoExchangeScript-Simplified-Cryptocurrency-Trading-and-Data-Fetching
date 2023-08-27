@@ -13,3 +13,14 @@ This is a Python script for interacting with cryptocurrency exchanges, specifica
 
 - Python 3.x
 - Required Python packages are listed in the `requirements.txt` file.
+
+Install the required Python packages:
+
+bash
+'''
+pip install -r requirements.txt
+'''
+
+Configure your API keys:
+
+Open the script file and replace the empty API key and secret with your Bybit API credentials.
