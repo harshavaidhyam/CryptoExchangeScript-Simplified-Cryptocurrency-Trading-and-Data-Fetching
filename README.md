@@ -17,9 +17,10 @@ This is a Python script for interacting with cryptocurrency exchanges, specifica
 Install the required Python packages:
 
 bash
-'''
+
+```
 pip install -r requirements.txt
-'''
+```
 
 Configure your API keys:
 
